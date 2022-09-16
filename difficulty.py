@@ -12,7 +12,7 @@ while stop:
         stop = False
 
     elif skillLevel.lower() == "h":
-        foresight = 3
+        foresight = 7
         stop = False
 
     else:
